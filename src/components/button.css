@@ -1,0 +1,9 @@
+.buttons{
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    height: 20px;
+    width: 60px;
+}
